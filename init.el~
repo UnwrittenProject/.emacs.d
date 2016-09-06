@@ -60,7 +60,7 @@
  ;; If there is more than one, they won't work right.
  '(org-agenda-files
    (quote
-    ("c:/Users/M/GoogleDrive/GTD/TODO/NEXT.ORG" "c:/Users/M/GoogleDrive/GTD/TODO/PROJECTS.org" "c:/Users/M/GoogleDrive/GTD/REFERENCE/ROOSTER.org"))))
+    ("c:/Users/M/GoogleDrive/GTD/TODO/PROJECTS.org" "c:/Users/M/GoogleDrive/GTD/REFERENCE/ROOSTER.org"))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
